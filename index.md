@@ -5,13 +5,21 @@ subtitle: Simple and Clean
 ---
 
 
-* Ihr IT-Dienstleister
+Ihr IT-Dienstleister,
+hilft Ihnen bei Ihren IT-Problemen und Vorhaben.
+freundlich und professionell,
+telefonisch, online und per Fernwartung.
+Damit Sie sich auf das wesentliche konzentrieren. 
+Und keine Zeit und Nerven verlieren.
 
-* hilft Ihnen bei Ihren IT-Problemen und Vorhaben.
+Für Privat- und Geschäftskunden.
 
-* freundlich und professionell
 
-* telefonisch, online und per Fernwartung, weltweit
-
-* Damit Sie sich auf das wesentliche konzentrieren: Keine Zeit und Nerven verlieren.
+Dienstleistungen, IT-
+- Beratung
+- Sicherheit
+- Integration
+- Entwicklung
+- Dokumentation
+- Administration
 
