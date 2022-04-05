@@ -14,11 +14,11 @@ Und keine Zeit und Nerven verlieren.
 
 Für Privat- und Geschäftskunden.
 
-Dienstleistungen, IT-
--Beratung
--Sicherheit
--Integration
--Entwicklung
--Dokumentation
--Administration
+Dienstleistungen:
+- Beratung
+- Sicherheit
+- Integration
+- Entwicklung
+- Dokumentation
+- Administration
 
