@@ -5,13 +5,13 @@ subtitle: Simple and Clean
 ---
 
 
-IT-Dienstleister
+* Ihr IT-Dienstleister
 
-hilft Ihnen bei Ihren IT-Problemen und Vorhaben
+* hilft Ihnen bei Ihren IT-Problemen und Vorhaben.
 
-freundlich und professionell
+* freundlich und professionell
 
-telefonisch, online und per Fernwartung, weltweit
+* telefonisch, online und per Fernwartung, weltweit
 
-Damit Sie sich auf das wesentliche konzentrieren: Keine Zeit und Nerven verlieren.
+* Damit Sie sich auf das wesentliche konzentrieren: Keine Zeit und Nerven verlieren.
 
