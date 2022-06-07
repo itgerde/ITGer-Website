@@ -16,7 +16,7 @@ author: Mathieu Burg
 navbar-links:
   Über mich: "aboutme"
   Rechtliches:
-    - Impressum: "Impruss"
+    - Impressum: "Impressum"
     - Datenschutz: "Datenschutz"
   Author's home: "https://hascii.de/"
 
