@@ -14,10 +14,10 @@ author: Mathieu Burg
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Über mich: "aboutme"
+  Rechtliches:
+    - Impressum: "Impruss"
+    - Datenschutz: "Datenschutz"
   Author's home: "https://hascii.de/"
 
 # --- Logo --- #
@@ -41,7 +41,7 @@ round-avatar: true
 social-network-links:
   email: "kontakt@itger.de"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-#  facebook: deanattali
+  facebook: fb.com/itgerde
 #  github: daattali
 #  twitter: daattali
 #  patreon: DeanAttali
